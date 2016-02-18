@@ -1,0 +1,9 @@
+input:focus[type=text] {
+	background: #fff;
+	border:1px solid #777;
+	box-shadow: 0 0 3px #aaa;
+	outline-style: dashed;
+}
+input.invalid {
+	border-color: red;
+}

@@ -1,0 +1,12 @@
+.__regexp_search_selected {
+	background-color: #ff7892;
+}
+/* matches are highlighted */
+
+#_regexp_search_count{
+	position:fixed;
+	top:0;
+	left:0;
+	padding:8px;
+	background-color: rgba(255, 255, 0, 0.5);
+}
