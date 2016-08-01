@@ -10,3 +10,5 @@ Neither does this search content that is non-textual but is visually-percived as
 In all, this tool can never be un-buggy. A seeamingly simple task is proved to be very hard.
 Just think about it:  Chrome and Firefox fail at this on sites like Amazon.com. 
 */
+THIS IS A DUPLICATE OF THIS PROJECT ON MY UMN GITHUB ACCOUNT: 
+https://github.umn.edu/yang4131/chrome-extension-search
